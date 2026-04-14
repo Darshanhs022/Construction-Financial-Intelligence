@@ -2,16 +2,6 @@
 
 > An end-to-end data engineering pipeline that transforms raw construction financial data into structured, validated, and analytics-ready datasets enabling portfolio-level cost control, financial risk detection, and cash flow visibility across multiple projects.
 
----
-
-## 📊 Dashboard Preview
-
-![Portfolio Overview](dashboard/Executive_overview.png)
-![Financial Control](dashboard/cost_control.png)
-![Cash Flow](dashboard/cashflow.png)
-![Risk Matrix](dashboard/risk_matrix.png)
-
-> Portfolio tracked: ₹1,766 Cr across 20 projects
 
 ---
 
@@ -198,6 +188,17 @@ Power BI dashboards are built on top of the semantic layer (read-only, no direct
 - Bubble scatter: Variance % vs Projected Cash Need
 - Combined risk score per project
 - Stress-tested forecast at +10% for worst-case planning
+
+---
+
+## 📊 Dashboard Preview
+
+![Portfolio Overview](dashboard/Executive_overview.png)
+![Financial Control](dashboard/cost_control.png)
+![Cash Flow](dashboard/cashflow.png)
+![Risk Matrix](dashboard/risk_matrix.png)
+
+> Portfolio tracked: ₹1,766 Cr across 20 projects
 
 ---
 
