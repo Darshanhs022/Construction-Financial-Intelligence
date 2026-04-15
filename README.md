@@ -20,6 +20,8 @@ This project aims to:
 
 ## 🧱 Architecture
 
+![Architecture Diagram](docs/architecture-diagram.png)
+
 ```
 Raw CSV Data
     │
